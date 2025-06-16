@@ -76,6 +76,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 - CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 
 ## Database Design 
+### Feature Breakdown
 ### API Documentation
 - OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
 - Django REST Framework: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.
@@ -98,3 +99,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 7. Database Optimizations
 - Indexing: Implement indexes for fast retrieval of frequently accessed data.
 - Caching: Use caching strategies to reduce database load and improve performance.
+
+## Api Security
+- Endpoints: /users/, /users/{user_id}/
+- Features: Register new users, authenticate, and manage user profiles.
