@@ -29,7 +29,29 @@ This project is a full-stack clone of the popular accommodation booking platform
 | Backend Developers |	Builds APIs, manages database, implements business logic |
 | Designers |	Creates mockups, maintains design system, ensures UX quality |
 | QA/Testers |	Writes test cases, performs testing, reports bugs |
+### Site links
 | DevOps Engineers |	Manages deployment, CI/CD pipeline, server infrastructure |
 | Product Owner |	Defines requirements, prioritizes features, represents stakeholders |
 | Scrum Master |	Facilitates agile processes, removes blockers, organizes meetings |
 
+## UI Component Patterns
+### Navbar
+
+1. Logo
+2. Search bar
+3. User navigation
+4. Responsive menu
+5. Property Card
+
+### Property image
+1. Basic details (price, location, rating)
+2. Favorite button
+3. Responsive layout
+4. Footer
+
+### Site links
+1. Company information
+2. Social media links
+3. Copyright information
+   
+- Each component will be designed for reusability and consistency across the application.
