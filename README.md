@@ -100,6 +100,6 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Indexing: Implement indexes for fast retrieval of frequently accessed data.
 - Caching: Use caching strategies to reduce database load and improve performance.
 
-## Api Security
+## API Security
 - Endpoints: /users/, /users/{user_id}/
 - Features: Register new users, authenticate, and manage user profiles.
